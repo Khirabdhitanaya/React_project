@@ -18,7 +18,7 @@ function Payment() {
     }
   };
 
-  const price = calculatePrice(duration);
+  const price = calculgiatePrice(duration);
 
   return (
     <div className="payment">
